@@ -1,10 +1,3 @@
 # CheckAir
-เช็คที่นี่นะ
-อำเภอ
--ฆ้องชัย
--สายไหม
- 
- จ. ปทุม
-- นครนายก
-- ภูเก็ต
+clone form https://github.com/ThammanoonAMON/haha
 # ChackAir.LaunchScreen
